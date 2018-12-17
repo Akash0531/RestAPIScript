@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="20" passed="20">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="39240" started-at="2018-12-17T06:43:57Z" finished-at="2018-12-17T06:44:36Z">
+  <suite name="Suite" duration-ms="24247" started-at="2018-12-17T10:19:57Z" finished-at="2018-12-17T10:20:21Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="39240" started-at="2018-12-17T06:43:57Z" finished-at="2018-12-17T06:44:36Z">
-      <class name="com.diksha.tst.TestScripts.LoginAPI">
-        <test-method status="PASS" signature="reportIntializer()[pri:0, instance:com.diksha.tst.TestScripts.LoginAPI@a7e666]" name="reportIntializer" is-config="true" duration-ms="947" started-at="2018-12-17T12:13:57Z" finished-at="2018-12-17T12:13:58Z">
+    <test name="Test" duration-ms="24247" started-at="2018-12-17T10:19:57Z" finished-at="2018-12-17T10:20:21Z">
+      <class name="com.diksha.tst.testscripts.LoginAPI">
+        <test-method status="PASS" signature="reportIntializer()[pri:0, instance:com.diksha.tst.testscripts.LoginAPI@a7e666]" name="reportIntializer" is-config="true" duration-ms="431" started-at="2018-12-17T15:49:57Z" finished-at="2018-12-17T15:49:57Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- reportIntializer -->
-        <test-method status="PASS" signature="userValidation(java.lang.String)[pri:0, instance:com.diksha.tst.TestScripts.LoginAPI@a7e666]" name="userValidation" duration-ms="6192" started-at="2018-12-17T12:14:01Z" data-provider="logindata" finished-at="2018-12-17T12:14:07Z">
+        <test-method status="PASS" signature="userValidation(java.lang.String)[pri:0, instance:com.diksha.tst.testscripts.LoginAPI@a7e666]" name="userValidation" duration-ms="3848" started-at="2018-12-17T15:49:59Z" data-provider="logindata" finished-at="2018-12-17T15:50:03Z">
           <params>
             <param index="0">
               <value>
@@ -22,18 +22,18 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- userValidation -->
-        <test-method status="PASS" signature="faliure(org.testng.ITestResult)[pri:0, instance:com.diksha.tst.TestScripts.LoginAPI@a7e666]" name="faliure" is-config="true" duration-ms="1" started-at="2018-12-17T12:14:07Z" description="Capturing the snapshot whenever any Testcase failed with some info" finished-at="2018-12-17T12:14:07Z">
+        <test-method status="PASS" signature="faliure(org.testng.ITestResult)[pri:0, instance:com.diksha.tst.testscripts.LoginAPI@a7e666]" name="faliure" is-config="true" duration-ms="1" started-at="2018-12-17T15:50:03Z" description="Capturing the snapshot whenever any Testcase failed with some info" finished-at="2018-12-17T15:50:03Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=userValidation status=SUCCESS method=LoginAPI.userValidation(java.lang.String)[pri:0, instance:com.diksha.tst.TestScripts.LoginAPI@a7e666] output={null}]]]>
+                <![CDATA[[TestResult name=userValidation status=SUCCESS method=LoginAPI.userValidation(java.lang.String)[pri:0, instance:com.diksha.tst.testscripts.LoginAPI@a7e666] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- faliure -->
-        <test-method status="PASS" signature="userValidation(java.lang.String)[pri:0, instance:com.diksha.tst.TestScripts.LoginAPI@a7e666]" name="userValidation" duration-ms="1255" started-at="2018-12-17T12:14:07Z" data-provider="logindata" finished-at="2018-12-17T12:14:08Z">
+        <test-method status="PASS" signature="userValidation(java.lang.String)[pri:0, instance:com.diksha.tst.testscripts.LoginAPI@a7e666]" name="userValidation" duration-ms="1141" started-at="2018-12-17T15:50:03Z" data-provider="logindata" finished-at="2018-12-17T15:50:04Z">
           <params>
             <param index="0">
               <value>
@@ -44,18 +44,18 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- userValidation -->
-        <test-method status="PASS" signature="faliure(org.testng.ITestResult)[pri:0, instance:com.diksha.tst.TestScripts.LoginAPI@a7e666]" name="faliure" is-config="true" duration-ms="1" started-at="2018-12-17T12:14:08Z" description="Capturing the snapshot whenever any Testcase failed with some info" finished-at="2018-12-17T12:14:08Z">
+        <test-method status="PASS" signature="faliure(org.testng.ITestResult)[pri:0, instance:com.diksha.tst.testscripts.LoginAPI@a7e666]" name="faliure" is-config="true" duration-ms="1" started-at="2018-12-17T15:50:04Z" description="Capturing the snapshot whenever any Testcase failed with some info" finished-at="2018-12-17T15:50:04Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=userValidation status=SUCCESS method=LoginAPI.userValidation(java.lang.String)[pri:0, instance:com.diksha.tst.TestScripts.LoginAPI@a7e666] output={null}]]]>
+                <![CDATA[[TestResult name=userValidation status=SUCCESS method=LoginAPI.userValidation(java.lang.String)[pri:0, instance:com.diksha.tst.testscripts.LoginAPI@a7e666] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- faliure -->
-        <test-method status="PASS" signature="userValidation(java.lang.String)[pri:0, instance:com.diksha.tst.TestScripts.LoginAPI@a7e666]" name="userValidation" duration-ms="2025" started-at="2018-12-17T12:14:08Z" data-provider="logindata" finished-at="2018-12-17T12:14:10Z">
+        <test-method status="PASS" signature="userValidation(java.lang.String)[pri:0, instance:com.diksha.tst.testscripts.LoginAPI@a7e666]" name="userValidation" duration-ms="1024" started-at="2018-12-17T15:50:04Z" data-provider="logindata" finished-at="2018-12-17T15:50:05Z">
           <params>
             <param index="0">
               <value>
@@ -66,18 +66,18 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- userValidation -->
-        <test-method status="PASS" signature="faliure(org.testng.ITestResult)[pri:0, instance:com.diksha.tst.TestScripts.LoginAPI@a7e666]" name="faliure" is-config="true" duration-ms="1" started-at="2018-12-17T12:14:10Z" description="Capturing the snapshot whenever any Testcase failed with some info" finished-at="2018-12-17T12:14:10Z">
+        <test-method status="PASS" signature="faliure(org.testng.ITestResult)[pri:0, instance:com.diksha.tst.testscripts.LoginAPI@a7e666]" name="faliure" is-config="true" duration-ms="0" started-at="2018-12-17T15:50:05Z" description="Capturing the snapshot whenever any Testcase failed with some info" finished-at="2018-12-17T15:50:05Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=userValidation status=SUCCESS method=LoginAPI.userValidation(java.lang.String)[pri:0, instance:com.diksha.tst.TestScripts.LoginAPI@a7e666] output={null}]]]>
+                <![CDATA[[TestResult name=userValidation status=SUCCESS method=LoginAPI.userValidation(java.lang.String)[pri:0, instance:com.diksha.tst.testscripts.LoginAPI@a7e666] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- faliure -->
-        <test-method status="PASS" signature="userValidation(java.lang.String)[pri:0, instance:com.diksha.tst.TestScripts.LoginAPI@a7e666]" name="userValidation" duration-ms="1161" started-at="2018-12-17T12:14:10Z" data-provider="logindata" finished-at="2018-12-17T12:14:11Z">
+        <test-method status="PASS" signature="userValidation(java.lang.String)[pri:0, instance:com.diksha.tst.testscripts.LoginAPI@a7e666]" name="userValidation" duration-ms="1852" started-at="2018-12-17T15:50:05Z" data-provider="logindata" finished-at="2018-12-17T15:50:07Z">
           <params>
             <param index="0">
               <value>
@@ -88,18 +88,18 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- userValidation -->
-        <test-method status="PASS" signature="faliure(org.testng.ITestResult)[pri:0, instance:com.diksha.tst.TestScripts.LoginAPI@a7e666]" name="faliure" is-config="true" duration-ms="0" started-at="2018-12-17T12:14:11Z" description="Capturing the snapshot whenever any Testcase failed with some info" finished-at="2018-12-17T12:14:11Z">
+        <test-method status="PASS" signature="faliure(org.testng.ITestResult)[pri:0, instance:com.diksha.tst.testscripts.LoginAPI@a7e666]" name="faliure" is-config="true" duration-ms="0" started-at="2018-12-17T15:50:07Z" description="Capturing the snapshot whenever any Testcase failed with some info" finished-at="2018-12-17T15:50:07Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=userValidation status=SUCCESS method=LoginAPI.userValidation(java.lang.String)[pri:0, instance:com.diksha.tst.TestScripts.LoginAPI@a7e666] output={null}]]]>
+                <![CDATA[[TestResult name=userValidation status=SUCCESS method=LoginAPI.userValidation(java.lang.String)[pri:0, instance:com.diksha.tst.testscripts.LoginAPI@a7e666] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- faliure -->
-        <test-method status="PASS" signature="userValidation(java.lang.String)[pri:0, instance:com.diksha.tst.TestScripts.LoginAPI@a7e666]" name="userValidation" duration-ms="1886" started-at="2018-12-17T12:14:11Z" data-provider="logindata" finished-at="2018-12-17T12:14:13Z">
+        <test-method status="PASS" signature="userValidation(java.lang.String)[pri:0, instance:com.diksha.tst.testscripts.LoginAPI@a7e666]" name="userValidation" duration-ms="907" started-at="2018-12-17T15:50:07Z" data-provider="logindata" finished-at="2018-12-17T15:50:08Z">
           <params>
             <param index="0">
               <value>
@@ -110,18 +110,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- userValidation -->
-        <test-method status="PASS" signature="faliure(org.testng.ITestResult)[pri:0, instance:com.diksha.tst.TestScripts.LoginAPI@a7e666]" name="faliure" is-config="true" duration-ms="4" started-at="2018-12-17T12:14:13Z" description="Capturing the snapshot whenever any Testcase failed with some info" finished-at="2018-12-17T12:14:13Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=userValidation status=SUCCESS method=LoginAPI.userValidation(java.lang.String)[pri:0, instance:com.diksha.tst.TestScripts.LoginAPI@a7e666] output={null}]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- faliure -->
-        <test-method status="PASS" signature="userValidation(java.lang.String)[pri:0, instance:com.diksha.tst.TestScripts.LoginAPI@a7e666]" name="userValidation" duration-ms="1932" started-at="2018-12-17T12:14:13Z" data-provider="logindata" finished-at="2018-12-17T12:14:15Z">
+        <test-method status="PASS" signature="userValidation(java.lang.String)[pri:0, instance:com.diksha.tst.testscripts.LoginAPI@a7e666]" name="userValidation" duration-ms="836" started-at="2018-12-17T15:50:08Z" data-provider="logindata" finished-at="2018-12-17T15:50:09Z">
           <params>
             <param index="0">
               <value>
@@ -132,7 +121,18 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- userValidation -->
-        <test-method status="PASS" signature="userValidation(java.lang.String)[pri:0, instance:com.diksha.tst.TestScripts.LoginAPI@a7e666]" name="userValidation" duration-ms="895" started-at="2018-12-17T12:14:15Z" data-provider="logindata" finished-at="2018-12-17T12:14:16Z">
+        <test-method status="PASS" signature="faliure(org.testng.ITestResult)[pri:0, instance:com.diksha.tst.testscripts.LoginAPI@a7e666]" name="faliure" is-config="true" duration-ms="0" started-at="2018-12-17T15:50:08Z" description="Capturing the snapshot whenever any Testcase failed with some info" finished-at="2018-12-17T15:50:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=userValidation status=SUCCESS method=LoginAPI.userValidation(java.lang.String)[pri:0, instance:com.diksha.tst.testscripts.LoginAPI@a7e666] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- faliure -->
+        <test-method status="PASS" signature="userValidation(java.lang.String)[pri:0, instance:com.diksha.tst.testscripts.LoginAPI@a7e666]" name="userValidation" duration-ms="1102" started-at="2018-12-17T15:50:09Z" data-provider="logindata" finished-at="2018-12-17T15:50:10Z">
           <params>
             <param index="0">
               <value>
@@ -143,29 +143,29 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- userValidation -->
-        <test-method status="PASS" signature="faliure(org.testng.ITestResult)[pri:0, instance:com.diksha.tst.TestScripts.LoginAPI@a7e666]" name="faliure" is-config="true" duration-ms="0" started-at="2018-12-17T12:14:15Z" description="Capturing the snapshot whenever any Testcase failed with some info" finished-at="2018-12-17T12:14:15Z">
+        <test-method status="PASS" signature="faliure(org.testng.ITestResult)[pri:0, instance:com.diksha.tst.testscripts.LoginAPI@a7e666]" name="faliure" is-config="true" duration-ms="0" started-at="2018-12-17T15:50:09Z" description="Capturing the snapshot whenever any Testcase failed with some info" finished-at="2018-12-17T15:50:09Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=userValidation status=SUCCESS method=LoginAPI.userValidation(java.lang.String)[pri:0, instance:com.diksha.tst.TestScripts.LoginAPI@a7e666] output={null}]]]>
+                <![CDATA[[TestResult name=userValidation status=SUCCESS method=LoginAPI.userValidation(java.lang.String)[pri:0, instance:com.diksha.tst.testscripts.LoginAPI@a7e666] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- faliure -->
-        <test-method status="PASS" signature="faliure(org.testng.ITestResult)[pri:0, instance:com.diksha.tst.TestScripts.LoginAPI@a7e666]" name="faliure" is-config="true" duration-ms="0" started-at="2018-12-17T12:14:16Z" description="Capturing the snapshot whenever any Testcase failed with some info" finished-at="2018-12-17T12:14:16Z">
+        <test-method status="PASS" signature="faliure(org.testng.ITestResult)[pri:0, instance:com.diksha.tst.testscripts.LoginAPI@a7e666]" name="faliure" is-config="true" duration-ms="0" started-at="2018-12-17T15:50:10Z" description="Capturing the snapshot whenever any Testcase failed with some info" finished-at="2018-12-17T15:50:10Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=userValidation status=SUCCESS method=LoginAPI.userValidation(java.lang.String)[pri:0, instance:com.diksha.tst.TestScripts.LoginAPI@a7e666] output={null}]]]>
+                <![CDATA[[TestResult name=userValidation status=SUCCESS method=LoginAPI.userValidation(java.lang.String)[pri:0, instance:com.diksha.tst.testscripts.LoginAPI@a7e666] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- faliure -->
-        <test-method status="PASS" signature="userValidation(java.lang.String)[pri:0, instance:com.diksha.tst.TestScripts.LoginAPI@a7e666]" name="userValidation" duration-ms="1957" started-at="2018-12-17T12:14:16Z" data-provider="logindata" finished-at="2018-12-17T12:14:18Z">
+        <test-method status="PASS" signature="userValidation(java.lang.String)[pri:0, instance:com.diksha.tst.testscripts.LoginAPI@a7e666]" name="userValidation" duration-ms="1015" started-at="2018-12-17T15:50:10Z" data-provider="logindata" finished-at="2018-12-17T15:50:11Z">
           <params>
             <param index="0">
               <value>
@@ -176,18 +176,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- userValidation -->
-        <test-method status="PASS" signature="faliure(org.testng.ITestResult)[pri:0, instance:com.diksha.tst.TestScripts.LoginAPI@a7e666]" name="faliure" is-config="true" duration-ms="1" started-at="2018-12-17T12:14:18Z" description="Capturing the snapshot whenever any Testcase failed with some info" finished-at="2018-12-17T12:14:18Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=userValidation status=SUCCESS method=LoginAPI.userValidation(java.lang.String)[pri:0, instance:com.diksha.tst.TestScripts.LoginAPI@a7e666] output={null}]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- faliure -->
-        <test-method status="PASS" signature="userValidation(java.lang.String)[pri:0, instance:com.diksha.tst.TestScripts.LoginAPI@a7e666]" name="userValidation" duration-ms="4451" started-at="2018-12-17T12:14:18Z" data-provider="logindata" finished-at="2018-12-17T12:14:23Z">
+        <test-method status="PASS" signature="userValidation(java.lang.String)[pri:0, instance:com.diksha.tst.testscripts.LoginAPI@a7e666]" name="userValidation" duration-ms="923" started-at="2018-12-17T15:50:11Z" data-provider="logindata" finished-at="2018-12-17T15:50:12Z">
           <params>
             <param index="0">
               <value>
@@ -198,7 +187,18 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- userValidation -->
-        <test-method status="PASS" signature="userValidation(java.lang.String)[pri:0, instance:com.diksha.tst.TestScripts.LoginAPI@a7e666]" name="userValidation" duration-ms="1178" started-at="2018-12-17T12:14:23Z" data-provider="logindata" finished-at="2018-12-17T12:14:24Z">
+        <test-method status="PASS" signature="faliure(org.testng.ITestResult)[pri:0, instance:com.diksha.tst.testscripts.LoginAPI@a7e666]" name="faliure" is-config="true" duration-ms="0" started-at="2018-12-17T15:50:11Z" description="Capturing the snapshot whenever any Testcase failed with some info" finished-at="2018-12-17T15:50:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=userValidation status=SUCCESS method=LoginAPI.userValidation(java.lang.String)[pri:0, instance:com.diksha.tst.testscripts.LoginAPI@a7e666] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- faliure -->
+        <test-method status="PASS" signature="userValidation(java.lang.String)[pri:0, instance:com.diksha.tst.testscripts.LoginAPI@a7e666]" name="userValidation" duration-ms="1783" started-at="2018-12-17T15:50:12Z" data-provider="logindata" finished-at="2018-12-17T15:50:14Z">
           <params>
             <param index="0">
               <value>
@@ -209,18 +209,18 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- userValidation -->
-        <test-method status="PASS" signature="faliure(org.testng.ITestResult)[pri:0, instance:com.diksha.tst.TestScripts.LoginAPI@a7e666]" name="faliure" is-config="true" duration-ms="0" started-at="2018-12-17T12:14:23Z" description="Capturing the snapshot whenever any Testcase failed with some info" finished-at="2018-12-17T12:14:23Z">
+        <test-method status="PASS" signature="faliure(org.testng.ITestResult)[pri:0, instance:com.diksha.tst.testscripts.LoginAPI@a7e666]" name="faliure" is-config="true" duration-ms="0" started-at="2018-12-17T15:50:12Z" description="Capturing the snapshot whenever any Testcase failed with some info" finished-at="2018-12-17T15:50:12Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=userValidation status=SUCCESS method=LoginAPI.userValidation(java.lang.String)[pri:0, instance:com.diksha.tst.TestScripts.LoginAPI@a7e666] output={null}]]]>
+                <![CDATA[[TestResult name=userValidation status=SUCCESS method=LoginAPI.userValidation(java.lang.String)[pri:0, instance:com.diksha.tst.testscripts.LoginAPI@a7e666] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- faliure -->
-        <test-method status="PASS" signature="userValidation(java.lang.String)[pri:0, instance:com.diksha.tst.TestScripts.LoginAPI@a7e666]" name="userValidation" duration-ms="4151" started-at="2018-12-17T12:14:24Z" data-provider="logindata" finished-at="2018-12-17T12:14:28Z">
+        <test-method status="PASS" signature="userValidation(java.lang.String)[pri:0, instance:com.diksha.tst.testscripts.LoginAPI@a7e666]" name="userValidation" duration-ms="1178" started-at="2018-12-17T15:50:14Z" data-provider="logindata" finished-at="2018-12-17T15:50:15Z">
           <params>
             <param index="0">
               <value>
@@ -231,29 +231,29 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- userValidation -->
-        <test-method status="PASS" signature="faliure(org.testng.ITestResult)[pri:0, instance:com.diksha.tst.TestScripts.LoginAPI@a7e666]" name="faliure" is-config="true" duration-ms="0" started-at="2018-12-17T12:14:24Z" description="Capturing the snapshot whenever any Testcase failed with some info" finished-at="2018-12-17T12:14:24Z">
+        <test-method status="PASS" signature="faliure(org.testng.ITestResult)[pri:0, instance:com.diksha.tst.testscripts.LoginAPI@a7e666]" name="faliure" is-config="true" duration-ms="0" started-at="2018-12-17T15:50:14Z" description="Capturing the snapshot whenever any Testcase failed with some info" finished-at="2018-12-17T15:50:14Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=userValidation status=SUCCESS method=LoginAPI.userValidation(java.lang.String)[pri:0, instance:com.diksha.tst.TestScripts.LoginAPI@a7e666] output={null}]]]>
+                <![CDATA[[TestResult name=userValidation status=SUCCESS method=LoginAPI.userValidation(java.lang.String)[pri:0, instance:com.diksha.tst.testscripts.LoginAPI@a7e666] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- faliure -->
-        <test-method status="PASS" signature="faliure(org.testng.ITestResult)[pri:0, instance:com.diksha.tst.TestScripts.LoginAPI@a7e666]" name="faliure" is-config="true" duration-ms="1" started-at="2018-12-17T12:14:28Z" description="Capturing the snapshot whenever any Testcase failed with some info" finished-at="2018-12-17T12:14:28Z">
+        <test-method status="PASS" signature="faliure(org.testng.ITestResult)[pri:0, instance:com.diksha.tst.testscripts.LoginAPI@a7e666]" name="faliure" is-config="true" duration-ms="0" started-at="2018-12-17T15:50:15Z" description="Capturing the snapshot whenever any Testcase failed with some info" finished-at="2018-12-17T15:50:15Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=userValidation status=SUCCESS method=LoginAPI.userValidation(java.lang.String)[pri:0, instance:com.diksha.tst.TestScripts.LoginAPI@a7e666] output={null}]]]>
+                <![CDATA[[TestResult name=userValidation status=SUCCESS method=LoginAPI.userValidation(java.lang.String)[pri:0, instance:com.diksha.tst.testscripts.LoginAPI@a7e666] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- faliure -->
-        <test-method status="PASS" signature="userValidation(java.lang.String)[pri:0, instance:com.diksha.tst.TestScripts.LoginAPI@a7e666]" name="userValidation" duration-ms="1820" started-at="2018-12-17T12:14:28Z" data-provider="logindata" finished-at="2018-12-17T12:14:30Z">
+        <test-method status="PASS" signature="userValidation(java.lang.String)[pri:0, instance:com.diksha.tst.testscripts.LoginAPI@a7e666]" name="userValidation" duration-ms="606" started-at="2018-12-17T15:50:15Z" data-provider="logindata" finished-at="2018-12-17T15:50:16Z">
           <params>
             <param index="0">
               <value>
@@ -264,7 +264,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- userValidation -->
-        <test-method status="PASS" signature="userValidation(java.lang.String)[pri:0, instance:com.diksha.tst.TestScripts.LoginAPI@a7e666]" name="userValidation" duration-ms="864" started-at="2018-12-17T12:14:30Z" data-provider="logindata" finished-at="2018-12-17T12:14:31Z">
+        <test-method status="PASS" signature="userValidation(java.lang.String)[pri:0, instance:com.diksha.tst.testscripts.LoginAPI@a7e666]" name="userValidation" duration-ms="841" started-at="2018-12-17T15:50:16Z" data-provider="logindata" finished-at="2018-12-17T15:50:16Z">
           <params>
             <param index="0">
               <value>
@@ -275,18 +275,18 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- userValidation -->
-        <test-method status="PASS" signature="faliure(org.testng.ITestResult)[pri:0, instance:com.diksha.tst.TestScripts.LoginAPI@a7e666]" name="faliure" is-config="true" duration-ms="0" started-at="2018-12-17T12:14:30Z" description="Capturing the snapshot whenever any Testcase failed with some info" finished-at="2018-12-17T12:14:30Z">
+        <test-method status="PASS" signature="faliure(org.testng.ITestResult)[pri:0, instance:com.diksha.tst.testscripts.LoginAPI@a7e666]" name="faliure" is-config="true" duration-ms="0" started-at="2018-12-17T15:50:16Z" description="Capturing the snapshot whenever any Testcase failed with some info" finished-at="2018-12-17T15:50:16Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=userValidation status=SUCCESS method=LoginAPI.userValidation(java.lang.String)[pri:0, instance:com.diksha.tst.TestScripts.LoginAPI@a7e666] output={null}]]]>
+                <![CDATA[[TestResult name=userValidation status=SUCCESS method=LoginAPI.userValidation(java.lang.String)[pri:0, instance:com.diksha.tst.testscripts.LoginAPI@a7e666] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- faliure -->
-        <test-method status="PASS" signature="userValidation(java.lang.String)[pri:0, instance:com.diksha.tst.TestScripts.LoginAPI@a7e666]" name="userValidation" duration-ms="1175" started-at="2018-12-17T12:14:31Z" data-provider="logindata" finished-at="2018-12-17T12:14:32Z">
+        <test-method status="PASS" signature="userValidation(java.lang.String)[pri:0, instance:com.diksha.tst.testscripts.LoginAPI@a7e666]" name="userValidation" duration-ms="1426" started-at="2018-12-17T15:50:16Z" data-provider="logindata" finished-at="2018-12-17T15:50:18Z">
           <params>
             <param index="0">
               <value>
@@ -297,29 +297,29 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- userValidation -->
-        <test-method status="PASS" signature="faliure(org.testng.ITestResult)[pri:0, instance:com.diksha.tst.TestScripts.LoginAPI@a7e666]" name="faliure" is-config="true" duration-ms="0" started-at="2018-12-17T12:14:31Z" description="Capturing the snapshot whenever any Testcase failed with some info" finished-at="2018-12-17T12:14:31Z">
+        <test-method status="PASS" signature="faliure(org.testng.ITestResult)[pri:0, instance:com.diksha.tst.testscripts.LoginAPI@a7e666]" name="faliure" is-config="true" duration-ms="0" started-at="2018-12-17T15:50:16Z" description="Capturing the snapshot whenever any Testcase failed with some info" finished-at="2018-12-17T15:50:16Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=userValidation status=SUCCESS method=LoginAPI.userValidation(java.lang.String)[pri:0, instance:com.diksha.tst.TestScripts.LoginAPI@a7e666] output={null}]]]>
+                <![CDATA[[TestResult name=userValidation status=SUCCESS method=LoginAPI.userValidation(java.lang.String)[pri:0, instance:com.diksha.tst.testscripts.LoginAPI@a7e666] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- faliure -->
-        <test-method status="PASS" signature="faliure(org.testng.ITestResult)[pri:0, instance:com.diksha.tst.TestScripts.LoginAPI@a7e666]" name="faliure" is-config="true" duration-ms="0" started-at="2018-12-17T12:14:32Z" description="Capturing the snapshot whenever any Testcase failed with some info" finished-at="2018-12-17T12:14:32Z">
+        <test-method status="PASS" signature="faliure(org.testng.ITestResult)[pri:0, instance:com.diksha.tst.testscripts.LoginAPI@a7e666]" name="faliure" is-config="true" duration-ms="0" started-at="2018-12-17T15:50:18Z" description="Capturing the snapshot whenever any Testcase failed with some info" finished-at="2018-12-17T15:50:18Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=userValidation status=SUCCESS method=LoginAPI.userValidation(java.lang.String)[pri:0, instance:com.diksha.tst.TestScripts.LoginAPI@a7e666] output={null}]]]>
+                <![CDATA[[TestResult name=userValidation status=SUCCESS method=LoginAPI.userValidation(java.lang.String)[pri:0, instance:com.diksha.tst.testscripts.LoginAPI@a7e666] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- faliure -->
-        <test-method status="PASS" signature="userValidation(java.lang.String)[pri:0, instance:com.diksha.tst.TestScripts.LoginAPI@a7e666]" name="userValidation" duration-ms="2429" started-at="2018-12-17T12:14:32Z" data-provider="logindata" finished-at="2018-12-17T12:14:34Z">
+        <test-method status="PASS" signature="userValidation(java.lang.String)[pri:0, instance:com.diksha.tst.testscripts.LoginAPI@a7e666]" name="userValidation" duration-ms="1143" started-at="2018-12-17T15:50:18Z" data-provider="logindata" finished-at="2018-12-17T15:50:19Z">
           <params>
             <param index="0">
               <value>
@@ -330,18 +330,18 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- userValidation -->
-        <test-method status="PASS" signature="faliure(org.testng.ITestResult)[pri:0, instance:com.diksha.tst.TestScripts.LoginAPI@a7e666]" name="faliure" is-config="true" duration-ms="0" started-at="2018-12-17T12:14:34Z" description="Capturing the snapshot whenever any Testcase failed with some info" finished-at="2018-12-17T12:14:34Z">
+        <test-method status="PASS" signature="faliure(org.testng.ITestResult)[pri:0, instance:com.diksha.tst.testscripts.LoginAPI@a7e666]" name="faliure" is-config="true" duration-ms="0" started-at="2018-12-17T15:50:19Z" description="Capturing the snapshot whenever any Testcase failed with some info" finished-at="2018-12-17T15:50:19Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=userValidation status=SUCCESS method=LoginAPI.userValidation(java.lang.String)[pri:0, instance:com.diksha.tst.TestScripts.LoginAPI@a7e666] output={null}]]]>
+                <![CDATA[[TestResult name=userValidation status=SUCCESS method=LoginAPI.userValidation(java.lang.String)[pri:0, instance:com.diksha.tst.testscripts.LoginAPI@a7e666] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- faliure -->
-        <test-method status="PASS" signature="userValidation(java.lang.String)[pri:0, instance:com.diksha.tst.TestScripts.LoginAPI@a7e666]" name="userValidation" duration-ms="1091" started-at="2018-12-17T12:14:34Z" data-provider="logindata" finished-at="2018-12-17T12:14:35Z">
+        <test-method status="PASS" signature="userValidation(java.lang.String)[pri:0, instance:com.diksha.tst.testscripts.LoginAPI@a7e666]" name="userValidation" duration-ms="1030" started-at="2018-12-17T15:50:19Z" data-provider="logindata" finished-at="2018-12-17T15:50:20Z">
           <params>
             <param index="0">
               <value>
@@ -352,82 +352,82 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- userValidation -->
-        <test-method status="PASS" signature="faliure(org.testng.ITestResult)[pri:0, instance:com.diksha.tst.TestScripts.LoginAPI@a7e666]" name="faliure" is-config="true" duration-ms="0" started-at="2018-12-17T12:14:35Z" description="Capturing the snapshot whenever any Testcase failed with some info" finished-at="2018-12-17T12:14:35Z">
+        <test-method status="PASS" signature="faliure(org.testng.ITestResult)[pri:0, instance:com.diksha.tst.testscripts.LoginAPI@a7e666]" name="faliure" is-config="true" duration-ms="0" started-at="2018-12-17T15:50:20Z" description="Capturing the snapshot whenever any Testcase failed with some info" finished-at="2018-12-17T15:50:20Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=userValidation status=SUCCESS method=LoginAPI.userValidation(java.lang.String)[pri:0, instance:com.diksha.tst.TestScripts.LoginAPI@a7e666] output={null}]]]>
+                <![CDATA[[TestResult name=userValidation status=SUCCESS method=LoginAPI.userValidation(java.lang.String)[pri:0, instance:com.diksha.tst.testscripts.LoginAPI@a7e666] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- faliure -->
-        <test-method status="PASS" signature="logoutValidation()[pri:0, instance:com.diksha.tst.TestScripts.LoginAPI@a7e666]" name="logoutValidation" duration-ms="402" started-at="2018-12-17T12:14:35Z" finished-at="2018-12-17T12:14:36Z">
+        <test-method status="PASS" signature="logoutValidation()[pri:0, instance:com.diksha.tst.testscripts.LoginAPI@a7e666]" name="logoutValidation" duration-ms="52" started-at="2018-12-17T15:50:20Z" finished-at="2018-12-17T15:50:20Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logoutValidation -->
-        <test-method status="PASS" signature="faliure(org.testng.ITestResult)[pri:0, instance:com.diksha.tst.TestScripts.LoginAPI@a7e666]" name="faliure" is-config="true" duration-ms="1" started-at="2018-12-17T12:14:36Z" description="Capturing the snapshot whenever any Testcase failed with some info" finished-at="2018-12-17T12:14:36Z">
+        <test-method status="PASS" signature="faliure(org.testng.ITestResult)[pri:0, instance:com.diksha.tst.testscripts.LoginAPI@a7e666]" name="faliure" is-config="true" duration-ms="0" started-at="2018-12-17T15:50:20Z" description="Capturing the snapshot whenever any Testcase failed with some info" finished-at="2018-12-17T15:50:20Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=logoutValidation status=SUCCESS method=LoginAPI.logoutValidation()[pri:0, instance:com.diksha.tst.TestScripts.LoginAPI@a7e666] output={null}]]]>
+                <![CDATA[[TestResult name=logoutValidation status=SUCCESS method=LoginAPI.logoutValidation()[pri:0, instance:com.diksha.tst.testscripts.LoginAPI@a7e666] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- faliure -->
-        <test-method status="PASS" signature="loginStatus()[pri:0, instance:com.diksha.tst.TestScripts.LoginAPI@a7e666]" name="loginStatus" duration-ms="543" started-at="2018-12-17T12:14:36Z" finished-at="2018-12-17T12:14:36Z">
+        <test-method status="PASS" signature="loginStatus()[pri:0, instance:com.diksha.tst.testscripts.LoginAPI@a7e666]" name="loginStatus" duration-ms="551" started-at="2018-12-17T15:50:20Z" finished-at="2018-12-17T15:50:21Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginStatus -->
-        <test-method status="PASS" signature="faliure(org.testng.ITestResult)[pri:0, instance:com.diksha.tst.TestScripts.LoginAPI@a7e666]" name="faliure" is-config="true" duration-ms="0" started-at="2018-12-17T12:14:36Z" description="Capturing the snapshot whenever any Testcase failed with some info" finished-at="2018-12-17T12:14:36Z">
+        <test-method status="PASS" signature="faliure(org.testng.ITestResult)[pri:0, instance:com.diksha.tst.testscripts.LoginAPI@a7e666]" name="faliure" is-config="true" duration-ms="0" started-at="2018-12-17T15:50:21Z" description="Capturing the snapshot whenever any Testcase failed with some info" finished-at="2018-12-17T15:50:21Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=loginStatus status=SUCCESS method=LoginAPI.loginStatus()[pri:0, instance:com.diksha.tst.TestScripts.LoginAPI@a7e666] output={null}]]]>
+                <![CDATA[[TestResult name=loginStatus status=SUCCESS method=LoginAPI.loginStatus()[pri:0, instance:com.diksha.tst.testscripts.LoginAPI@a7e666] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- faliure -->
-        <test-method status="PASS" signature="loginAPI()[pri:0, instance:com.diksha.tst.TestScripts.LoginAPI@a7e666]" name="loginAPI" duration-ms="181" started-at="2018-12-17T12:14:36Z" finished-at="2018-12-17T12:14:36Z">
+        <test-method status="PASS" signature="loginAPI()[pri:0, instance:com.diksha.tst.testscripts.LoginAPI@a7e666]" name="loginAPI" duration-ms="207" started-at="2018-12-17T15:50:21Z" finished-at="2018-12-17T15:50:21Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginAPI -->
-        <test-method status="PASS" signature="faliure(org.testng.ITestResult)[pri:0, instance:com.diksha.tst.TestScripts.LoginAPI@a7e666]" name="faliure" is-config="true" duration-ms="0" started-at="2018-12-17T12:14:36Z" description="Capturing the snapshot whenever any Testcase failed with some info" finished-at="2018-12-17T12:14:36Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=loginAPI status=SUCCESS method=LoginAPI.loginAPI()[pri:0, instance:com.diksha.tst.TestScripts.LoginAPI@a7e666] output={null}]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- faliure -->
-        <test-method status="PASS" signature="moduleAccessValidation()[pri:0, instance:com.diksha.tst.TestScripts.LoginAPI@a7e666]" name="moduleAccessValidation" duration-ms="0" started-at="2018-12-17T12:14:36Z" finished-at="2018-12-17T12:14:36Z">
+        <test-method status="PASS" signature="moduleAccessValidation()[pri:0, instance:com.diksha.tst.testscripts.LoginAPI@a7e666]" name="moduleAccessValidation" duration-ms="1" started-at="2018-12-17T15:50:21Z" finished-at="2018-12-17T15:50:21Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- moduleAccessValidation -->
-        <test-method status="PASS" signature="faliure(org.testng.ITestResult)[pri:0, instance:com.diksha.tst.TestScripts.LoginAPI@a7e666]" name="faliure" is-config="true" duration-ms="0" started-at="2018-12-17T12:14:36Z" description="Capturing the snapshot whenever any Testcase failed with some info" finished-at="2018-12-17T12:14:36Z">
+        <test-method status="PASS" signature="faliure(org.testng.ITestResult)[pri:0, instance:com.diksha.tst.testscripts.LoginAPI@a7e666]" name="faliure" is-config="true" duration-ms="0" started-at="2018-12-17T15:50:21Z" description="Capturing the snapshot whenever any Testcase failed with some info" finished-at="2018-12-17T15:50:21Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=moduleAccessValidation status=SUCCESS method=LoginAPI.moduleAccessValidation()[pri:0, instance:com.diksha.tst.TestScripts.LoginAPI@a7e666] output={null}]]]>
+                <![CDATA[[TestResult name=loginAPI status=SUCCESS method=LoginAPI.loginAPI()[pri:0, instance:com.diksha.tst.testscripts.LoginAPI@a7e666] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- faliure -->
-        <test-method status="PASS" signature="extentreport()[pri:0, instance:com.diksha.tst.TestScripts.LoginAPI@a7e666]" name="extentreport" is-config="true" duration-ms="266" started-at="2018-12-17T12:14:36Z" finished-at="2018-12-17T12:14:37Z">
+        <test-method status="PASS" signature="faliure(org.testng.ITestResult)[pri:0, instance:com.diksha.tst.testscripts.LoginAPI@a7e666]" name="faliure" is-config="true" duration-ms="0" started-at="2018-12-17T15:50:21Z" description="Capturing the snapshot whenever any Testcase failed with some info" finished-at="2018-12-17T15:50:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=moduleAccessValidation status=SUCCESS method=LoginAPI.moduleAccessValidation()[pri:0, instance:com.diksha.tst.testscripts.LoginAPI@a7e666] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- faliure -->
+        <test-method status="PASS" signature="extentreport()[pri:0, instance:com.diksha.tst.testscripts.LoginAPI@a7e666]" name="extentreport" is-config="true" duration-ms="182" started-at="2018-12-17T15:50:21Z" finished-at="2018-12-17T15:50:21Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- extentreport -->
-      </class> <!-- com.diksha.tst.TestScripts.LoginAPI -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+      </class> <!-- com.diksha.tst.testscripts.LoginAPI -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>

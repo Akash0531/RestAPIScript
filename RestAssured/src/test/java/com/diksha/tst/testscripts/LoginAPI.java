@@ -1,4 +1,4 @@
-package com.diksha.tst.TestScripts;
+package com.diksha.tst.testscripts;
 
 import org.testng.annotations.Test;
 

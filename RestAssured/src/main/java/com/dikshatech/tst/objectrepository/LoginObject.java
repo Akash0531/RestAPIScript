@@ -5,7 +5,7 @@ import java.util.Arrays;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
-import com.diksha.tst.TestScripts.LoginAPI;
+import com.diksha.tst.testscripts.LoginAPI;
 import com.dikshatech.tst.pagefatory.TestBase;
 import com.dikshatech.tst.utilitieslib.Permission;
 

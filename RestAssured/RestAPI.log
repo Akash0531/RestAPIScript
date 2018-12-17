@@ -16686,3 +16686,151 @@
 2018-12-17 12:14:36 INFO  LoginAPI:77 - Full Name of the logged in user is Pulluru Vinod Kumar
 2018-12-17 12:14:36 INFO  LoginAPI:78 - Username of the logged in user is pulluru.vinod
 2018-12-17 12:14:36 ERROR LoginObject:140 - No Such Roles/Designation defined
+2018-12-17 14:28:59 INFO  TestBase:52 - Status code is : 200
+2018-12-17 14:28:59 INFO  LoginAPI:36 - Valid User invoked
+2018-12-17 14:29:01 INFO  TestBase:52 - Status code is : 200
+2018-12-17 14:29:02 ERROR LoginAPI:42 - Invalid Login try again. :- Invalid@dikshatech.com
+2018-12-17 14:29:03 INFO  TestBase:52 - Status code is : 200
+2018-12-17 14:29:03 INFO  LoginAPI:36 - Valid User invoked
+2018-12-17 14:29:07 INFO  TestBase:52 - Status code is : 200
+2018-12-17 14:29:07 INFO  LoginAPI:36 - Valid User invoked
+2018-12-17 14:29:08 INFO  TestBase:52 - Status code is : 200
+2018-12-17 14:29:08 INFO  LoginAPI:36 - Valid User invoked
+2018-12-17 14:29:08 INFO  TestBase:52 - Status code is : 200
+2018-12-17 14:29:09 ERROR LoginAPI:42 - Invalid Login try again. :- Qwerty@dikshatech.com
+2018-12-17 14:29:09 INFO  TestBase:52 - Status code is : 200
+2018-12-17 14:29:10 INFO  LoginAPI:36 - Valid User invoked
+2018-12-17 14:29:10 INFO  TestBase:52 - Status code is : 200
+2018-12-17 14:29:11 INFO  LoginAPI:36 - Valid User invoked
+2018-12-17 14:29:11 INFO  TestBase:52 - Status code is : 200
+2018-12-17 14:29:12 INFO  LoginAPI:36 - Valid User invoked
+2018-12-17 14:29:12 INFO  TestBase:52 - Status code is : 200
+2018-12-17 14:29:13 INFO  LoginAPI:36 - Valid User invoked
+2018-12-17 14:29:13 INFO  TestBase:52 - Status code is : 200
+2018-12-17 14:29:13 INFO  LoginAPI:36 - Valid User invoked
+2018-12-17 14:29:13 INFO  TestBase:52 - Status code is : 200
+2018-12-17 14:29:14 ERROR LoginAPI:42 - Invalid Login try again. :- NotanUser@dikshatech.com
+2018-12-17 14:29:14 INFO  TestBase:52 - Status code is : 200
+2018-12-17 14:29:15 INFO  LoginAPI:36 - Valid User invoked
+2018-12-17 14:29:16 INFO  TestBase:52 - Status code is : 200
+2018-12-17 14:29:16 INFO  LoginAPI:36 - Valid User invoked
+2018-12-17 14:29:18 INFO  TestBase:52 - Status code is : 200
+2018-12-17 14:29:19 INFO  LoginAPI:36 - Valid User invoked
+2018-12-17 14:29:19 INFO  TestBase:52 - Status code is : 200
+2018-12-17 14:29:20 INFO  LoginAPI:36 - Valid User invoked
+2018-12-17 14:29:21 INFO  TestBase:98 - Status code for logout is 200 and application is successfully logout
+2018-12-17 14:29:22 INFO  LoginAPI:56 - Valid User invoked
+2018-12-17 14:29:22 INFO  LoginAPI:77 - Full Name of the logged in user is Pulluru Vinod Kumar
+2018-12-17 14:29:22 INFO  LoginAPI:78 - Username of the logged in user is pulluru.vinod
+2018-12-17 14:29:22 ERROR LoginObject:140 - No Such Roles/Designation defined
+2018-12-17 15:46:29 INFO  TestBase:52 - Status code is : 502
+2018-12-17 15:46:30 INFO  LoginAPI:36 - Valid User invoked
+2018-12-17 15:46:30 INFO  TestBase:52 - Status code is : 502
+2018-12-17 15:46:31 INFO  TestBase:67 - Test Case Failed and name of the test case is: userValidation
+2018-12-17 15:46:31 INFO  TestBase:52 - Status code is : 502
+2018-12-17 15:46:31 INFO  LoginAPI:36 - Valid User invoked
+2018-12-17 15:46:31 INFO  TestBase:52 - Status code is : 502
+2018-12-17 15:46:31 INFO  LoginAPI:36 - Valid User invoked
+2018-12-17 15:46:31 INFO  TestBase:52 - Status code is : 502
+2018-12-17 15:46:32 INFO  LoginAPI:36 - Valid User invoked
+2018-12-17 15:46:32 INFO  TestBase:52 - Status code is : 502
+2018-12-17 15:46:33 INFO  TestBase:67 - Test Case Failed and name of the test case is: userValidation
+2018-12-17 15:46:33 INFO  TestBase:52 - Status code is : 502
+2018-12-17 15:46:33 INFO  LoginAPI:36 - Valid User invoked
+2018-12-17 15:46:33 INFO  TestBase:52 - Status code is : 502
+2018-12-17 15:46:33 INFO  LoginAPI:36 - Valid User invoked
+2018-12-17 15:46:33 INFO  TestBase:52 - Status code is : 502
+2018-12-17 15:46:34 INFO  LoginAPI:36 - Valid User invoked
+2018-12-17 15:46:34 INFO  TestBase:52 - Status code is : 502
+2018-12-17 15:46:34 INFO  LoginAPI:36 - Valid User invoked
+2018-12-17 15:46:35 INFO  TestBase:52 - Status code is : 502
+2018-12-17 15:46:35 INFO  LoginAPI:36 - Valid User invoked
+2018-12-17 15:47:20 INFO  TestBase:52 - Status code is : 200
+2018-12-17 15:47:21 ERROR LoginAPI:42 - Invalid Login try again. :- NotanUser@dikshatech.com
+2018-12-17 15:47:22 INFO  TestBase:52 - Status code is : 200
+2018-12-17 15:47:23 INFO  LoginAPI:36 - Valid User invoked
+2018-12-17 15:47:24 INFO  TestBase:52 - Status code is : 200
+2018-12-17 15:47:25 INFO  LoginAPI:36 - Valid User invoked
+2018-12-17 15:47:29 INFO  TestBase:52 - Status code is : 200
+2018-12-17 15:47:30 INFO  LoginAPI:36 - Valid User invoked
+2018-12-17 15:47:30 INFO  TestBase:52 - Status code is : 200
+2018-12-17 15:47:31 INFO  LoginAPI:36 - Valid User invoked
+2018-12-17 15:47:31 INFO  TestBase:98 - Status code for logout is 200 and application is successfully logout
+2018-12-17 15:47:32 INFO  LoginAPI:56 - Valid User invoked
+2018-12-17 15:47:32 INFO  LoginAPI:77 - Full Name of the logged in user is Pulluru Vinod Kumar
+2018-12-17 15:47:32 INFO  LoginAPI:78 - Username of the logged in user is pulluru.vinod
+2018-12-17 15:47:32 ERROR LoginObject:140 - No Such Roles/Designation defined
+2018-12-17 15:47:55 INFO  TestBase:52 - Status code is : 200
+2018-12-17 15:47:55 INFO  LoginAPI:36 - Valid User invoked
+2018-12-17 15:47:56 INFO  TestBase:52 - Status code is : 200
+2018-12-17 15:47:57 ERROR LoginAPI:42 - Invalid Login try again. :- Invalid@dikshatech.com
+2018-12-17 15:47:58 INFO  TestBase:52 - Status code is : 200
+2018-12-17 15:47:58 INFO  LoginAPI:36 - Valid User invoked
+2018-12-17 15:47:59 INFO  TestBase:52 - Status code is : 200
+2018-12-17 15:47:59 INFO  LoginAPI:36 - Valid User invoked
+2018-12-17 15:48:00 INFO  TestBase:52 - Status code is : 200
+2018-12-17 15:48:00 INFO  LoginAPI:36 - Valid User invoked
+2018-12-17 15:48:01 INFO  TestBase:52 - Status code is : 200
+2018-12-17 15:48:01 ERROR LoginAPI:42 - Invalid Login try again. :- Qwerty@dikshatech.com
+2018-12-17 15:48:02 INFO  TestBase:52 - Status code is : 200
+2018-12-17 15:48:02 INFO  LoginAPI:36 - Valid User invoked
+2018-12-17 15:48:03 INFO  TestBase:52 - Status code is : 200
+2018-12-17 15:48:03 INFO  LoginAPI:36 - Valid User invoked
+2018-12-17 15:48:04 INFO  TestBase:52 - Status code is : 200
+2018-12-17 15:48:05 INFO  LoginAPI:36 - Valid User invoked
+2018-12-17 15:48:06 INFO  TestBase:52 - Status code is : 200
+2018-12-17 15:48:06 INFO  LoginAPI:36 - Valid User invoked
+2018-12-17 15:48:07 INFO  TestBase:52 - Status code is : 200
+2018-12-17 15:48:07 INFO  LoginAPI:36 - Valid User invoked
+2018-12-17 15:48:07 INFO  TestBase:52 - Status code is : 200
+2018-12-17 15:48:08 ERROR LoginAPI:42 - Invalid Login try again. :- NotanUser@dikshatech.com
+2018-12-17 15:48:08 INFO  TestBase:52 - Status code is : 200
+2018-12-17 15:48:09 INFO  LoginAPI:36 - Valid User invoked
+2018-12-17 15:48:10 INFO  TestBase:52 - Status code is : 200
+2018-12-17 15:48:10 INFO  LoginAPI:36 - Valid User invoked
+2018-12-17 15:48:11 INFO  TestBase:52 - Status code is : 200
+2018-12-17 15:48:11 INFO  LoginAPI:36 - Valid User invoked
+2018-12-17 15:48:16 INFO  TestBase:52 - Status code is : 200
+2018-12-17 15:48:16 INFO  LoginAPI:36 - Valid User invoked
+2018-12-17 15:48:17 INFO  TestBase:98 - Status code for logout is 200 and application is successfully logout
+2018-12-17 15:48:18 INFO  LoginAPI:56 - Valid User invoked
+2018-12-17 15:48:18 INFO  LoginAPI:77 - Full Name of the logged in user is Pulluru Vinod Kumar
+2018-12-17 15:48:18 INFO  LoginAPI:78 - Username of the logged in user is pulluru.vinod
+2018-12-17 15:48:18 ERROR LoginObject:140 - No Such Roles/Designation defined
+2018-12-17 15:50:03 INFO  TestBase:52 - Status code is : 200
+2018-12-17 15:50:03 INFO  LoginAPI:36 - Valid User invoked
+2018-12-17 15:50:03 INFO  TestBase:52 - Status code is : 200
+2018-12-17 15:50:04 ERROR LoginAPI:42 - Invalid Login try again. :- Invalid@dikshatech.com
+2018-12-17 15:50:05 INFO  TestBase:52 - Status code is : 200
+2018-12-17 15:50:05 INFO  LoginAPI:36 - Valid User invoked
+2018-12-17 15:50:07 INFO  TestBase:52 - Status code is : 200
+2018-12-17 15:50:07 INFO  LoginAPI:36 - Valid User invoked
+2018-12-17 15:50:08 INFO  TestBase:52 - Status code is : 200
+2018-12-17 15:50:08 INFO  LoginAPI:36 - Valid User invoked
+2018-12-17 15:50:08 INFO  TestBase:52 - Status code is : 200
+2018-12-17 15:50:09 ERROR LoginAPI:42 - Invalid Login try again. :- Qwerty@dikshatech.com
+2018-12-17 15:50:10 INFO  TestBase:52 - Status code is : 200
+2018-12-17 15:50:10 INFO  LoginAPI:36 - Valid User invoked
+2018-12-17 15:50:11 INFO  TestBase:52 - Status code is : 200
+2018-12-17 15:50:11 INFO  LoginAPI:36 - Valid User invoked
+2018-12-17 15:50:12 INFO  TestBase:52 - Status code is : 200
+2018-12-17 15:50:12 INFO  LoginAPI:36 - Valid User invoked
+2018-12-17 15:50:14 INFO  TestBase:52 - Status code is : 200
+2018-12-17 15:50:14 INFO  LoginAPI:36 - Valid User invoked
+2018-12-17 15:50:15 INFO  TestBase:52 - Status code is : 200
+2018-12-17 15:50:15 INFO  LoginAPI:36 - Valid User invoked
+2018-12-17 15:50:15 INFO  TestBase:52 - Status code is : 200
+2018-12-17 15:50:16 ERROR LoginAPI:42 - Invalid Login try again. :- NotanUser@dikshatech.com
+2018-12-17 15:50:16 INFO  TestBase:52 - Status code is : 200
+2018-12-17 15:50:16 INFO  LoginAPI:36 - Valid User invoked
+2018-12-17 15:50:17 INFO  TestBase:52 - Status code is : 200
+2018-12-17 15:50:18 INFO  LoginAPI:36 - Valid User invoked
+2018-12-17 15:50:19 INFO  TestBase:52 - Status code is : 200
+2018-12-17 15:50:19 INFO  LoginAPI:36 - Valid User invoked
+2018-12-17 15:50:20 INFO  TestBase:52 - Status code is : 200
+2018-12-17 15:50:20 INFO  LoginAPI:36 - Valid User invoked
+2018-12-17 15:50:20 INFO  TestBase:98 - Status code for logout is 200 and application is successfully logout
+2018-12-17 15:50:21 INFO  LoginAPI:56 - Valid User invoked
+2018-12-17 15:50:21 INFO  LoginAPI:77 - Full Name of the logged in user is Pulluru Vinod Kumar
+2018-12-17 15:50:21 INFO  LoginAPI:78 - Username of the logged in user is pulluru.vinod
+2018-12-17 15:50:21 ERROR LoginObject:140 - No Such Roles/Designation defined
